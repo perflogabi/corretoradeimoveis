@@ -27,11 +27,11 @@ const Navbar = () => {
             <ul>
                 <li><a href="/"> Home </a></li>
                 <li><a href="#"> Blog </a></li>
-                <li><a href="#"> Agents </a></li>
-                <li><a href="#"> About Us </a></li>
+                <li><a href="#"> Agentes </a></li>
+                <li><a href="#"> Sobre nós </a></li>
             </ul>
             <div className="btn">
-                <a href="#"> Add Property </a>
+                <a href="#"> Add Propriedade </a>
             </div>
         </div>
 

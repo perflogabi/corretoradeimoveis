@@ -1,18 +1,18 @@
 const questions = [
     {
         id:"1",
-        question:"How much do I need for a down payment?",
-        answer:"Esteem spirit temper too say adieus who direct esteem esteems luckily or picture placing drawing."
+        question:"Quanto de dinheiro eu preciso para fazer o pagamento inicial?",
+        answer:"Lorem Lorem Lorem Lorem Lorem Lorem Lorem."
     },
     {
         id:"2",
-        question:"How much do I have to pay an agent to help me buy a house?",
-        answer:"Esteem spirit temper too say adieus who direct esteem esteems luckily or picture placing drawing."
+        question:"Quanto eu tenho que pagar para um agete me ajudar a comprar uma casa?",
+        answer:"Lorem Lorem Lorem Lorem Lorem Lorem Lorem."
     },
     {
         id:"3",
-        question:"What the first step of the home buying process?",
-        answer:"Esteem spirit temper too say adieus who direct esteem esteems luckily or picture placing drawing."
+        question:"Qual é o primeiro passo para o processo de compra da casa?",
+        answer:"Lorem Lorem Lorem Lorem Lorem Lorem Lorem."
     },
 ]
 export default questions

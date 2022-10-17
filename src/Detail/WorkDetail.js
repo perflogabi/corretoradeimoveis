@@ -2,26 +2,26 @@ const WorkDetail = [
     {
         id:"1",
         number:"01",
-        heading:"All Cash Offer",
-        info:"A small river named Duden flows by their place and supplies it with the necessary regelialia."
+        heading:"Toda oferta em dinheiro",
+        info:"Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem."
     },
     {
         id:"2",
         number:"02",
-        heading:"Meet Your Agent",
-        info:"A small river named Duden flows by their place and supplies it with the necessary regelialia."
+        heading:"Conheça seu agente",
+        info:"Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem."
     },
     {
         id:"3",
         number:"03",
-        heading:"Close the Deal",
-        info:"A small river named Duden flows by their place and supplies it with the necessary regelialia."
+        heading:"Fechar o negócio",
+        info:"Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem."
     },
     {
         id:"4",
         number:"04",
-        heading:"Have Your Property",
-        info:"A small river named Duden flows by their place and supplies it with the necessary regelialia."
+        heading:"Tenha sua propriedade",
+        info:"Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem Lorem."
     },
 ]
 export default WorkDetail

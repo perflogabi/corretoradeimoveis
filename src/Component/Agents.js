@@ -10,8 +10,8 @@ const Agents = () => {
     <section className="agents">
 
     <div className="agents-heading">
-    <span>Agents</span>
-    <h2> Our Agents </h2>
+    <span>Agentes</span>
+    <h2> Nossos Agentes </h2>
     </div>
 
     <div className="agents-row">

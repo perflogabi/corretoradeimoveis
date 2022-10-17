@@ -20,8 +20,8 @@ const Services = () => {
     <section data-aos= "fade-up" className="services">
 
     <div className="heading">
-      <span>Our Services</span>
-      <h2> The smartest way to buy a home </h2>
+      <span>Nossos Serviços</span>
+      <h2> A maneira mais inteligênte de comprar uma casa </h2>
     </div>
 
     <div className="services-row">

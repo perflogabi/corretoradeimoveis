@@ -24,8 +24,8 @@ const Work = () => {
     <div data-aos = "fade-up" className="work-container">
 
         <div className="work-heading">
-        <span>work flow</span>
-        <h2> How It Work </h2>
+        <span>fluxo de trabalho</span>
+        <h2> Como isso funciona </h2>
         </div>
 
         <div className="column1">

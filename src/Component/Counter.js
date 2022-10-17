@@ -67,7 +67,7 @@ const [transitionNavbar, setTransitionNavbar] = useState(false)
             }}
             </CountUp>          
             </strong>
-            <span>Area <br /> population</span>
+            <span>População <br /> da Área</span>
         </div>
 
         {/* Column 2 */}
@@ -91,7 +91,7 @@ const [transitionNavbar, setTransitionNavbar] = useState(false)
             }}
             </CountUp>          
             </strong>
-            <span>  Total <br /> Properties </span>
+            <span>  Propriedades <br /> Totais </span>
         </div>
 
         {/* Column 3 */}
@@ -115,7 +115,7 @@ const [transitionNavbar, setTransitionNavbar] = useState(false)
             }}
             </CountUp>          
             </strong>
-            <span> Average <br /> House </span>
+            <span> Casas <br /> Médias </span>
         </div>
 
         {/* Column 4 */}
@@ -139,7 +139,7 @@ const [transitionNavbar, setTransitionNavbar] = useState(false)
             }}
             </CountUp>          
             </strong>
-            <span> Total <br /> Branches </span>
+            <span> Filiais </span>
         </div>
 
         </div>

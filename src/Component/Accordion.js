@@ -16,7 +16,7 @@ const Accordion = () => {
     <div className="accordion-row">
 
     <div className="left">
-        <h3>Frequently Ask</h3>
+        <h3>Perguntas Frequentes</h3>
         {
             detail.map((detail)=>{
                 return(

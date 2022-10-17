@@ -153,24 +153,24 @@ const Footer = () => {
 
     <div className="footer-column">
         <div className="column-content">
-        <h2>Community</h2>
+        <h2>Communidade</h2>
         <ul>
            <li> 
               <a href="#">
                 <span> <i class="fa-solid fa-arrow-right-long"></i> </span>
-                Search Properties
+                Procurar Propriedades
               </a>
             </li>
            <li> 
               <a href="#">
                 <span> <i class="fa-solid fa-arrow-right-long"></i> </span>
-                For Agents
+                Agentes
               </a>
             </li>
            <li>
               <a href="#">
                 <span> <i class="fa-solid fa-arrow-right-long"></i> </span>
-                Reviews
+                Avaliações
               </a>
             </li>
         </ul>
@@ -181,24 +181,24 @@ const Footer = () => {
 
     <div className="footer-column">
         <div className="column-content">
-        <h2>About Us</h2>
+        <h2>Sobre nós</h2>
         <ul>
            <li> 
               <a href="#">
                 <span> <i class="fa-solid fa-arrow-right-long"></i> </span>
-                Our Story
+                Nossa história
               </a>
             </li>
            <li> 
               <a href="#">
                 <span> <i class="fa-solid fa-arrow-right-long"></i> </span>
-                Meet the team
+                Conheça o time
               </a>
             </li>
            <li>
               <a href="#">
                 <span> <i class="fa-solid fa-arrow-right-long"></i> </span>
-                Reviews
+                Avaliações
               </a>
             </li>
         </ul>
@@ -209,30 +209,25 @@ const Footer = () => {
 
     <div className="footer-column">
         <div className="column-content">
-        <h2>Companny</h2>
+        <h2>Companhia</h2>
         <ul>
            <li> 
               <a href="#">
                 <span> <i class="fa-solid fa-arrow-right-long"></i> </span>
-                About Us 
+                Sobre nós 
               </a>
             </li>
-           <li> 
-              <a href="#">
-                <span> <i class="fa-solid fa-arrow-right-long"></i> </span>
-                Press
-              </a>
-            </li>
+           
            <li>
               <a href="#">
                 <span> <i class="fa-solid fa-arrow-right-long"></i> </span>
-                Contact
+                Contato
               </a>
             </li>
             <li>
               <a href="#">
                 <span> <i class="fa-solid fa-arrow-right-long"></i> </span>
-                Careers
+                Carreira
               </a>
             </li>
         </ul>
@@ -243,11 +238,11 @@ const Footer = () => {
 
     <div className="footer-column">
         <div className="column-content">
-        <h2>Have a Questions?</h2>
+        <h2>Tem alguma pergunta?</h2>
         <ul>
            <li> 
                 <span className='footer-icon'> <i class="fa-solid fa-location-dot"></i> </span>
-                <span className="text">Golf ST. Lake View, San Francisco, California, USA</span>
+                <span className="text">São Paulo - SP, Brasil</span>
             </li>
            <li> 
                 <span className='footer-icon'> <i class="fa-solid fa-phone"></i> </span>
@@ -255,7 +250,7 @@ const Footer = () => {
             </li>
            <li>
                 <span className='footer-icon'> <i class="fa-solid fa-envelope"></i> </span>
-                <span className="text">info@yourdomain.com</span>
+                <span className="text">info@seudominio.com</span>
             </li>
         </ul>
         </div>
@@ -265,7 +260,7 @@ const Footer = () => {
 
     <div className="footer-2">
         <div className="footer-2-container">
-        <p>Copyright ©2022 All rights reserved LearnDev</p>
+        <p>Copyright ©2022 All rights reserved</p>
         </div>
     </div>
 

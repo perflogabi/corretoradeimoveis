@@ -13,7 +13,7 @@ const Property = () => {
     <section className="property">
 
     <div className="center">
-    <h3>Popular Properties</h3>
+    <h3>Propriedades Populares</h3>
     </div>
 
     <div className="row">
@@ -26,7 +26,7 @@ const Property = () => {
             <div className="card">
 
                 <div className="property-thumb">
-                    <div className="property-tag"> For Sale </div>
+                    <div className="property-tag"> À venda </div>
                     <img src={detail.Image} alt="Palace" />
                 </div>
 
@@ -66,7 +66,7 @@ const Property = () => {
     </div>
 
     <div className="more-property">
-        <a className='property-btn' href="#">More Properties</a>
+        <a className='property-btn' href="#">Mais Propriedades</a>
     </div>
 
     </section>

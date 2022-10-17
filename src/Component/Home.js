@@ -53,13 +53,13 @@ const Counter = ({ className, ...rest }) => {
 
     <div className="container">
 
-        <h1>we construct <br /> dreams</h1>
+        <h1>nós construímos <br /> sonhos</h1>
         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
          Illo accusamus iusto odit distinctio esse</p>
 
          <div className="link">
-            <a href="#" className="explore"> Explore </a>
-            <a href="#" className="contact"> Contact Us </a>
+            <a href="#" className="explore"> Explorar </a>
+            <a href="#" className="contact"> Contato </a>
          </div>
 
     </div>
